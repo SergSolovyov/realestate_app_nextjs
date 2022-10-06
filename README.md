@@ -1,4 +1,4 @@
-Link https://nextjs-realestate-7rx8u97w2-tonysopranoo.vercel.app/property/5278487
+Link https://nextjs-realestate-7rx8u97w2-tonysopranoo.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
